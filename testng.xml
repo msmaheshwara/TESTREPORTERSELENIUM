@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="test report">
+	<test name="test extended report">
+	<classes>
+		<class name="test.LoginTest"/>
+		
+	</classes>	
+	</test>
+</suite>	
+		
